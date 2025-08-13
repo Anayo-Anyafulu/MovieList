@@ -1,0 +1,65 @@
+id,title,year,rating,genre,Iswatchted,notes
+1,The Shawshank Redemption,1994,9.3,Drama,true,A powerful story of hope and resilience.
+2,The Godfather,1972,9.2,Crime,true,A classic crime drama with unforgettable characters.
+3,The Dark Knight,2008,9.0,Action,true,Heath Ledger's Joker is iconic.
+4,Pulp Fiction,1994,8.9,Crime,true,Quentin Tarantino's masterpiece.
+5,The Lord of the Rings: The Return of the King,2003,8.9,Fantasy,true,Epic conclusion to an epic trilogy.
+6,Forrest Gump,1994,8.8,Drama,true,Life is like a box of chocolates.
+7,Inception,2010,8.8,Sci-Fi,true,Mind-bending and visually stunning.
+8,Fight Club,1999,8.8,Drama,true,The first rule of Fight Club is...
+9,The Matrix,1999,8.7,Sci-Fi,true,Red pill or blue pill?
+10,Goodfellas,1990,8.7,Crime,true,One of the best gangster films ever made.
+11,Spider-Man: Into the Spider-Verse,2018,8.4,Animation,true,Visually innovative and a great story.
+12,Interstellar,2014,8.6,Sci-Fi,true,A thought-provoking space odyssey.
+13,Parasite,2019,8.5,Thriller,true,A brilliant and unsettling social commentary.
+14,Gladiator,2000,8.5,Action,true,Are you not entertained?
+15,Whiplash,2014,8.5,Drama,true,Intense and gripping.
+16,The Lion King,1994,8.5,Animation,true,A timeless Disney classic.
+17,Inglourious Basterds,2009,8.3,Adventure,true,Another fantastic Tarantino film.
+18,Blade Runner 2049,2017,8.0,Sci-Fi,true,Stunning visuals and great atmosphere.
+19,Arrival,2016,7.9,Sci-Fi,true,Thought-provoking alien encounter.
+20,Joker,2019,8.4,Crime,true,A dark and disturbing character study.
+21,Dune: Part One,2021,8.0,Sci-Fi,true,Visually impressive adaptation.
+22,Mad Max: Fury Road,2015,8.1,Action,true,Non-stop action and amazing practical effects.
+23,Eternal Sunshine of the Spotless Mind,2004,8.3,Romance,false,A unique take on relationships and memory.
+24,Amelie,2001,8.3,Comedy,true,Charming and whimsical.
+25,Spirited Away,2001,8.6,Animation,true,A beautiful and imaginative Studio Ghibli film.
+26,Your Name.,2016,8.4,Animation,true,A visually stunning and emotional story.
+27,Coco,2017,8.4,Animation,true,Heartwarming and culturally rich.
+28,Avengers: Endgame,2019,8.4,Action,true,A satisfying conclusion to a decade of films.
+29,Reservoir Dogs,1992,8.3,Crime,true,Tarantino's gritty debut.
+30,Don't Look Up,2021,7.2,Comedy,false,A dark comedy about a comet heading for Earth.
+31,Knives Out,2019,7.9,Mystery,true,A fun and twisty whodunit.
+32,No Country for Old Men,2007,8.2,Crime,true,A bleak but compelling Coen Brothers film.
+33,There Will Be Blood,2007,8.2,Drama,true,Daniel Day-Lewis is incredible.
+34,The Grand Budapest Hotel,2014,8.1,Comedy,true,Wes Anderson at his finest.
+35,Her,2013,8.0,Sci-Fi,true,A poignant look at artificial intelligence.
+36,Call Me by Your Name,2017,7.9,Romance,false,Beautiful and tender.
+37,Lady Bird,2017,7.4,Comedy,false,A charming coming-of-age story.
+38,Get Out,2017,7.8,Horror,true,A smart and unsettling horror film.
+39,Us,2019,6.9,Horror,false,Creepy and thought-provoking.
+40,The Lighthouse,2019,7.4,Drama,false,A bizarre and intense psychological thriller.
+41,Midsommar,2019,7.1,Horror,false,Visually stunning and deeply disturbing.
+42,Hereditary,2018,7.3,Horror,true,Truly terrifying.
+43,Once Upon a Time in Hollywood,2019,7.6,Drama,true,A leisurely but engaging watch.
+44,1917,2019,8.2,War,true,A technical marvel.
+45,Green Book,2018,8.2,Biography,true,A heartwarming true story.
+46,Spotlight,2015,8.1,Drama,true,Powerful investigative journalism.
+47,Manchester by the Sea,2016,7.8,Drama,true,Heartbreaking and moving.
+48,La La Land,2016,7.9,Musical,true,A beautiful modern musical.
+49,Drive,2011,7.8,Crime,false,Stylish and violent.
+50,Nightcrawler,2014,7.8,Crime,true,Jake Gyllenhaal is fantastic.
+51,The Social Network,2010,7.8,Biography,true,A sharp look at the founding of Facebook.
+52,Birdman or (The Unexpected Virtue of Ignorance),2014,7.7,Comedy,false,Unique and well-acted.
+53,Grand Theft Auto,2013,8.0,Action,true,A thrilling crime saga.
+54,Arrival (2016),2016,7.9,Sci-Fi,true,A unique and thought-provoking take on alien contact.
+55,Eternal Sunshine of the Spotless Mind (2004),2004,8.3,Romance,true,A visually stunning and emotionally complex film.
+56,Amelie (2001),2001,8.3,Comedy,true,A whimsical and heartwarming story set in Paris.
+57,Spirited Away (2001),2001,8.6,Animation,true,A masterpiece of animation and storytelling.
+58,Your Name. (2016),2016,8.4,Animation,true,A beautiful and emotional story of two strangers connected by fate.
+59,Coco (2017),2017,8.4,Animation,true,A vibrant and moving film about family and tradition.
+60,Avengers: Endgame (2019),2019,8.4,Action,true,The epic conclusion to the Infinity Saga.
+61,Reservoir Dogs (1992),1992,8.3,Crime,true,Quentin Tarantino's iconic directorial debut.
+62,Don't Look Up (2021),2021,7.2,Comedy,false,A satirical look at humanity's response to a global catastrophe.
+63,Knives Out (2019),2019,7.9,Mystery,true,A star-studded and intricate modern murder mystery.
+64,No Country for Old Men (2007),2007,8.2,Crime,true,A brutal and existential neo-western from the Coen Brothers.
